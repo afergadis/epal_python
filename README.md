@@ -1,2 +1,3 @@
-# epal_python
-Examples for the Python lesson taughed in Greek secondary technical schools.
+# Προγραμματισμός Υπολογιστών με Python
+
+Παρουσίαση της θεωρίας με διαδραστικά σημειωματάρια.
